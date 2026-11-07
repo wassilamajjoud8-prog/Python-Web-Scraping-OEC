@@ -5,7 +5,7 @@ import re
 import time
 from playwright.sync_api import sync_playwright
 
-DOSSIER_SORTIE = r"C:\Users\o.karmaoui\Downloads"
+DOSSIER_SORTIE = r"C:\Users\W.majjoud\Downloads"
 
 
 def nettoyer_valeur(valeur):
